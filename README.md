@@ -27,10 +27,11 @@ Email-only B2B support with:
 AI is optional and used only as an agent-assist layer (summary, routing suggestion, draft reply). Final actions remain human-approved.
 
 ## What this demonstrates
-- incident
-- SLA
-- ownership
-- security guardrails
+- Incident operating model (severity, roles, lifecycle, customer updates)
+- B2B SLA discipline (first response, update cadence, aging control)
+- Ownership and routing (component mapping, escalation, dedup)
+- Security guardrails (loop prevention, attachment handling, auditability)
+- AI agent-assist used responsibly (human approval, deterministic fallback)
 
 ## Quick start (conceptual)
 - Deploy Zammad using the official Docker Compose guidance (see `zammad/README.md`)
