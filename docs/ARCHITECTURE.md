@@ -12,6 +12,9 @@
 - n8n: workflow automation and integrations (email parsing, enrichment, notifications)
 - Uptime Kuma: monitoring checks + public status page
 
+## Principles
+- Zammad is the single system of record for both Support and Incidents.
+
 ## Data flow
 ```mermaid
 flowchart LR
