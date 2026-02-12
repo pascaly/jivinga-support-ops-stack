@@ -1,6 +1,7 @@
 # n8n Workflow Specs (v0.1)
 
 Workflows are described at specification level. Production credentials and endpoints are not included.
+
 Note: Incidents are tracked in Zammad (group: Jivinga Incidents). n8n automations create/update Zammad tickets and add internal notes for auditability.
 
 ## Workflow A: Email intake normalization (Zammad ticket created)
