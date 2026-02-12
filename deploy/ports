@@ -1,0 +1,5 @@
+# Port allocation (localhost only)
+
+- Zammad: 127.0.0.1:3002 -> container 8080
+- Uptime Kuma: 127.0.0.1:3003 -> container 3001
+- Reserved for n8n (future): 127.0.0.1:3004 -> container 5678
