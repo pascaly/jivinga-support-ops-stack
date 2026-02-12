@@ -26,6 +26,12 @@ Email-only B2B support with:
 
 AI is optional and used only as an agent-assist layer (summary, routing suggestion, draft reply). Final actions remain human-approved.
 
+## What this demonstrates
+- incident
+- SLA
+- ownership
+- security guardrails
+
 ## Quick start (conceptual)
 - Deploy Zammad using the official Docker Compose guidance (see `zammad/README.md`)
 - Deploy n8n for workflows and integrations (see `docs/WORKFLOWS_N8N.md`)
